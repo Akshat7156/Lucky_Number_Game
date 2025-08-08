@@ -67,7 +67,7 @@ pip install pygame pyttsx3
 
 ```
 LuckyNumberGame/
-├── lucky_number.py
+├── luckynumbergame.py
 ├── assets/
 │   ├── sounds/
 │   └── music/
